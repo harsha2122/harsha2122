@@ -1,16 +1,16 @@
 <h2 align="center">Hi 👋! My name is Tanmay Singh and I'm a Frontend Developer from India</h2>
 
-###
+
 
 <h4 align="left">🔭 I’m currently working on Krantecq Solutions Private Limited.<br>🤝 Frontend Developer with Exceptional designing skills.<br>🌱 I’m currently learning Three.js to enrich my skills.<br>💬 Feel free to contact me anytime through my social handles.<br>⚡ Fun fact - Self Taught Developer</h4>
 
-###
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/harsha2122/count.svg?"  />
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harsha2122&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -75,7 +75,7 @@
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="50" alt="discord logo"  />
 </div>
 
-###
+
 
 <div align="center">
   <a href="tsingh2214@gmail.com" target="_blank">
@@ -101,10 +101,10 @@
   </a>
 </div>
 
-###
+
 
 <div align="center">
   <img height="200" src="https://wallpapercave.com/wp/wp6102718.png"  />
 </div>
 
-###
+
