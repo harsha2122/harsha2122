@@ -19,7 +19,7 @@
 </div>
 ###
 
-________________[![harsha2122's GitHub | Languages Over Time](https://stats.quine.sh/harsha2122/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=harsha2122)_______________________
+[![harsha2122's GitHub | Languages Over Time](https://stats.quine.sh/harsha2122/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=harsha2122)
 
 <br clear="both">
 
