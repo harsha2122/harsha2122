@@ -17,7 +17,7 @@
   <img src="https://streak-stats.demolab.com?user=harsha2122&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=10" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harsha2122&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
-###
+
 
 [![harsha2122's GitHub | Languages Over Time](https://stats.quine.sh/harsha2122/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=harsha2122)
 
