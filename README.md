@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I am Tanmay Singh and a Creative Frontend Developer from India (¬‿¬)</h2>
+<h2 align="center">Hi 👋! I am Tanmay Singh and a Creative Frontend Developer from India  (⌐■_■) </h2>
 
 
 
