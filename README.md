@@ -2,7 +2,7 @@
 
 
 
-<h4 align="left">🔭 I’m currently a Front-end developer in Krantecq Solutions Private Limited.<br>🤝 Frontend Developer with Exceptional designing skills.<br>🌱 I’m currently learning Three.js to enrich my portfolio.<br>💬 Feel free to contact me anytime through my social handles.<br>⚡ Fun fact - Love to watch Anime 😅.<br>⚽ Professional Footballer </h4>
+<h4 align="left">🔭 I’m currently a Front-end developer in The Digitech Solutions Private Limited.<br>🤝 Frontend Developer with Exceptional designing skills.<br>🌱 I’m currently learning Three.js to enrich my portfolio.<br>💬 Feel free to contact me anytime through my social handles.<br>⚡ Fun fact - Love to watch Anime 😅.<br>⚽ Professional Footballer </h4>
 
 
 
